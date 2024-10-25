@@ -23,3 +23,14 @@ Frequency counts of unigrams, bigrams, and trigrams.
 Generated sentences demonstrating language patterns.
 Sentiment analysis of generated sentences.
 Evaluation metrics such as precision, recall, and accuracy for classifier performance.
+
+# Output
+![image](https://github.com/user-attachments/assets/877d2b4a-b2d4-48f2-9270-bfa49a476003)
+![image](https://github.com/user-attachments/assets/afee5b26-d324-4726-976d-7d364b012dd2)
+![image](https://github.com/user-attachments/assets/1e5f72c4-91a2-4421-8d5d-023279978f68)
+
+# Evaluate
+![image](https://github.com/user-attachments/assets/8b978407-7eef-4a8f-8636-0b648ecdec4c)
+
+
+

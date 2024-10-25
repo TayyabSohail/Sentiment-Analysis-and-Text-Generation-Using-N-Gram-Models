@@ -6,6 +6,7 @@ This project implements a sentiment analysis system to classify movie reviews as
 # Features
 Sentiment Classification: Accurately classifies movie reviews based on sentiment.
 Text Generation: Generates new reviews using learned n-gram patterns.
+
 Modeling Techniques: Utilizes unigram, bigram, and trigram models to analyze and predict text.
 
 
